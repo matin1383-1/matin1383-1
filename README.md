@@ -7,6 +7,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ali.hejazzii/)](https://www.instagram.com/martin_auobi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:auobimartin@gmail.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/matin1383-1)
+<p align="center">
+
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Math+CS+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -14,4 +19,8 @@
 <hr/>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" margin-top = "10px" />
 
-As a passionate second-year Mathematics and Computer Science student at Shiraz University, I've cultivated a deep interest in the fields of Machine Learning and Artificial Intelligence, particularly in areas such as Deep Learning and Graph Neural Networks (GNNs).Beyond my coursework, I am actively involved in the ICPC (International Collegiate Programming Contest), where I've honed my problem-solving skills and collaborated with like-minded peers. My curiosity also extends to the world of bioinformatics, where I explore the intersection of biology and data science, driven by a desire to contribute to advancements in healthcare
+- 📖 I'm a mathematics student with a minor of computer science in the Shiraz university 
+- 🧠 I also work as a machine  learning developer where I focus in training deep models of machine learning and mostly GNNs .
+- 🖥️ I use web developments tools  using python to make our machine learning models closer to the real world applications 
+- 📫 How to reach me: auobimartin@gmail.com
+ <hr>
