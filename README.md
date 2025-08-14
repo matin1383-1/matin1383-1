@@ -14,6 +14,4 @@
 <hr/>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" margin-top = "10px" />
 
-Hi , I'm martin or meybe amirhossein auobi a math\Cs major in the shiraz university 
-I also work as a machine learning developer where I focus in tranining deep ml models in the real-world projects 
-I'm also interseted to research in the area of bio and Ml 
+As a passionate second-year Mathematics and Computer Science student at Shiraz University, I've cultivated a deep interest in the fields of Machine Learning and Artificial Intelligence, particularly in areas such as Deep Learning and Graph Neural Networks (GNNs).Beyond my coursework, I am actively involved in the ICPC (International Collegiate Programming Contest), where I've honed my problem-solving skills and collaborated with like-minded peers. My curiosity also extends to the world of bioinformatics, where I explore the intersection of biology and data science, driven by a desire to contribute to advancements in healthcare
