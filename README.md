@@ -12,9 +12,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Math+CS+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" margin-top = "10px" />
 
-## I'm a Math Cs student , Developer 
-- 👨‍💻 I’m currently working on training deep ml models
-- 📚 I’m currently a machine learning engineering in prime😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas..
+Hi , I'm martin or meybe amirhossein auobi a math\Cs major in the shiraz university 
+I also work as a machine learning developer where I focus in tranining deep ml models in the real-world projects 
+I'm also interseted to research in the area of bio and Ml 
